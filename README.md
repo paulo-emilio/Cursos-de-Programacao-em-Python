@@ -1,2 +1,2 @@
-# Cursos de Programacao em Python
- Cursos abrangentes de programação em Python, ministrados em diversas plataformas educacionais, como Alura e Curso em Vídeo. Esses cursos abordam desde conceitos fundamentais até tópicos avançados, com foco na programação orientada a objetos (POO) e na exploração de bibliotecas. Além disso, esses cursos também incluem instrução sobre o desenvolvimento de APIs, como o framework Flask, proporcionando uma experiência de aprendizado completa e abrangente.
+# Cursos de Programação em Python
+ Repositório de Aprendizado de Programação em Python, do básico ao avançado, incluíndo: programação orientada a objetos (POO), exploração de bibliotecas e APIs.
